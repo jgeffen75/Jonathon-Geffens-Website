@@ -1,0 +1,5 @@
+[22-Mar-2015 19:36:04 America/Chicago] PHP Fatal error:  Call to undefined function current_posts_contents() in /home4/jgeffen/public_html/sites/all/modules/current_posts.module on line 44
+[22-Mar-2015 19:37:13 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/jgeffen/public_html/sites/all/modules/current_posts.module on line 72
+[22-Mar-2015 22:19:07 America/Chicago] PHP Fatal error:  Cannot use object of type DatabaseStatementBase as array in /home4/jgeffen/public_html/sites/all/modules/expiration_date.module on line 32
+[22-Mar-2015 22:19:08 America/Chicago] PHP Fatal error:  Cannot use object of type DatabaseStatementBase as array in /home4/jgeffen/public_html/sites/all/modules/expiration_date.module on line 32
+[22-Mar-2015 22:20:54 America/Chicago] PHP Fatal error:  Unsupported operand types in /home4/jgeffen/public_html/sites/all/modules/expiration_date.module on line 50
